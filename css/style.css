@@ -593,7 +593,7 @@ body:after {
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
       color: #000 !important; }
       .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover, .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active {
-        color: #C2E54F !important; }
+        color: #0044cc !important; }
   .sticky-wrapper .shrink {
     padding-top: 10px !important;
     padding-bottom: 10px !important; }
@@ -721,9 +721,9 @@ body:after {
     background: rgba(52, 58, 64, 0.3) !important;
     color: #000; }
   .filters .btn.active {
-    background: #C2E54F !important;
+    background: #dc3545 !important;
     color: #fff !important;
-    border-color: #C2E54F !important; }
+    border-color: #dc3545 !important; }
 
 /* Isotope Transitions
 ------------------------------- */
