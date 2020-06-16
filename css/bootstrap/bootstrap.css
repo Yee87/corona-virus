@@ -7988,7 +7988,13 @@ button.bg-dark:focus {
   font-style: italic !important; }
 
 .text-white {
-  color: #fff !important; }
+  color: #e9ecef !important;
+text-shadow: -1px -1px 0 #000, 
+               1px -1px 0 #000,
+              -1px 1px 0 #000, 
+              1px 1px 0 #000;
+font-weight:bold;
+			  }
 
 .text-primary {
   color: #C2E54F !important; }
