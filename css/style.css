@@ -69,12 +69,12 @@ body:after {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: #C2E54F;
-    border-color: #C2E54F;
+    background: #000;
+    border-color: #000;
     color: #fff; }
     .btn.btn-primary:hover {
-      background: #000;
-      border-color: #000;
+      background: #C2E54F;
+      border-color: #C2E54F;
       color: #fff; }
     .btn.btn-primary.btn-black--hover:hover {
       background: #666666;
