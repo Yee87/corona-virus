@@ -8,6 +8,10 @@ html {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -ms-overflow-style: scrollbar; }
+  
+  
+  body{font-family: 'Noto Sans TC', sans-serif;
+  }
 
 *,
 *::before,
